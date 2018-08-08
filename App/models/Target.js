@@ -1,5 +1,5 @@
 class Target {
-    constructor(name, health, img, item, slapdmg, punchdmg, kickdmg, specialdmg) {
+    constructor(name, health, img, slapdmg, punchdmg, kickdmg, specialdmg) {
         this.name = name || ''
         this.health = health || 100
         this.img = img || ''
