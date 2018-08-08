@@ -27,5 +27,5 @@ class Target {
         }
     }
 }
-
+console.log("hi from slap target")
 export default Target

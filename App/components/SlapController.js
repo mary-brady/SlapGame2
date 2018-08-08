@@ -27,9 +27,9 @@ class SlapController {
         draw()
     }
     attack(type) {
-        mySlapService.attack(this)
+        mySlapService.attack(type)
         draw()
     }
 }
-
+console.log("hi from slap controller")
 export default SlapController

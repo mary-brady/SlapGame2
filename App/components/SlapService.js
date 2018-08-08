@@ -19,5 +19,5 @@ class SlapService {
         }
     }
 }
-
+console.log("hi from slap service")
 export default SlapService
